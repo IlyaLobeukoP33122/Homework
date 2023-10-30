@@ -1,0 +1,22 @@
+<!DOCTYPE html><html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        .container{
+            display: flex;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="1.jpeg" alt="1">
+        <img src="2.jpeg" alt="2">
+        <img src="3.jpeg" alt="3">
+        <img src="4.jpeg" alt="4">
+        <img src="5.jpeg" alt="5">
+        <img src="6.jpeg" alt="6">
+        <img src="7.jpeg" alt="7">
+        <img src="8.jpeg" alt="8">
+    </div>
+</body>
